@@ -1,5 +1,5 @@
 # TOS
-GalaxyWorld TOS
+Bot TOS
 
 1. **Respectful Behavior:**
    - Ensure that the bot and its users maintain a respectful and friendly environment.
